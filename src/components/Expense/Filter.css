@@ -1,0 +1,32 @@
+.over{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 70px;
+    padding-top: 10px;
+    padding-left: 110px;
+
+
+}
+.para{
+    font-weight: bolder;
+  }
+  .select{
+    background-color: whitesmoke;
+    font-weight: bolder;
+      /* float: right;
+    margin-top:-10px;
+    margin-right: 80px; */
+  }
+  
+  .opt1{
+    font-weight: bolder;
+  }
+  .opt2{
+    font-weight: bolder;
+  }
+  .opt3{
+    font-weight: bolder;
+  }
+  .opt4{
+    font-weight: bolder;
+  }

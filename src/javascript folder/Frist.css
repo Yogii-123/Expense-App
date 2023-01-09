@@ -1,0 +1,95 @@
+.a{ 
+    background-color:black;
+     height: 120px;
+     background-color:black;
+     width: 75%; 
+    /* align-items: center;
+    display:flex;  */
+    /* margin: 20px; */
+    margin-left: 100px;
+    padding: 5px;
+    margin-top: 20px;
+ 
+   /* width: 100px; */ 
+ }
+ .head1{
+   width: 100px;
+   height: 80px;
+   background-color:gray;
+   color: white;
+   text-align: center;
+   border: 2px solid white;
+   border-radius: 10px;
+   margin-left: 40px;
+ }
+ /* .headapp{
+   text-align: center;
+   margin-top: -100px;
+ } */
+ .expense{
+     text-align: center;
+     color:whitesmoke;
+     /* margin-left: 400px; */
+     font-weight: bolder;
+     font-size: large;
+     margin-top:-70px ; 
+
+ }
+ .expense1{
+   width: 70px;
+   height: 40px;
+   background-color:grey;
+   color: white;
+   border: 1px solid white;
+   border-radius: 5px;
+   text-align: center;
+   /* align-items: right;
+   justify-items: right; */
+   margin-left: 900px;
+   margin-top: -40px;
+   font-weight: bolder;
+ }
+ .b{
+  background-color:black;
+  height: 120px;
+  background-color:black;
+  width: 75%; 
+  margin-left: 100px;
+  padding: 5px;
+  margin-top: 20px;
+ }
+ .head2{
+  width: 100px;
+  height: 80px;
+  background-color:gray;
+  color: white;
+  text-align: center;
+  border: 2px solid white;
+  border-radius: 10px;
+  margin-left: 40px;
+
+ }
+ .expense2{
+  text-align: center;
+  color:whitesmoke;
+  /* margin-left: 400px; */
+  font-weight: bolder;
+  font-size: large;
+  margin-top:-70px ; 
+
+ }
+ .expense3{
+  width: 70px;
+  height: 40px;
+  background-color:grey;
+  color: white;
+  border: 1px solid white;
+  border-radius: 5px;
+  text-align: center;
+  /* align-items: right;
+  justify-items: right; */
+  margin-left: 900px;
+  margin-top: -40px;
+  font-weight: bolder;
+
+  }

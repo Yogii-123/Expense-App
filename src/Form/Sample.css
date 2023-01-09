@@ -1,0 +1,103 @@
+.overallform{
+    width: auto;
+    height: auto;
+    /* background-color: gray; */
+}
+.btn1{
+    background-color:navy;
+    color: whitesmoke;
+    font-weight: bolder;
+    font-size: larger;
+    margin-top: 30px;
+    align-items: center;
+    margin-left:600px;
+}
+.div1{
+    margin-top: 30px;
+    padding-bottom: 100px;
+}
+.overall{
+    /* align-items: center;
+    justify-items: center; */
+    margin-left:300px;
+    width: 55%;
+    background-color:black;
+    color: #f5f5f5;
+    border: 2px solid skyblue;
+     border-radius: 12px;
+}
+.title{
+text-align: left;
+margin-left:25px;
+font-weight: bolder;
+font-size: medium;
+}
+.amount{
+    text-align: right;
+    margin-left:400px;
+    font-weight: bolder;
+   font-size: medium;
+}
+.titleinput{
+    margin-left:25px;
+    width: 250px;
+
+}
+.amountinput{
+    /* margin-left:100px; */
+    float: right;
+    margin-right:30px;
+    width:250px;
+
+}
+.date{
+    margin-left: 25px;
+    font-weight: bolder;
+    font-size: medium;
+
+}
+.dateinput{
+    margin-left: 25px;
+    width: 250px;
+}
+ .bt2{
+    margin-left: 500px;
+    font-size: medium;
+    font-weight: bolder;
+    background-color: grey;
+    color: whitesmoke;
+}
+.bt3{
+    float: right;
+    margin-right: 40px;
+    font-weight: bolder;
+    font-size: medium;
+    background-color: grey;
+    color: whitesmoke;
+
+} 
+.formbtn{
+    align-items: center;
+    justify-items: center;
+    margin-left:300px;
+    width: 55%;
+    background-color:black;
+    color: rgb(207, 164, 164);
+    border: 2px solid skyblue ;
+    height:120px;
+    margin-top: 30px;
+    border-radius:10px;
+    /* padding-bottom:30px; */
+}
+.formbtn1{
+    margin-left: 280px;
+    margin-top:30px;
+    border-radius: 10px;
+    background-color: gray;
+    font-weight: bolder;
+    color: whitesmoke;
+    font-size: larger;
+    padding: 10px;
+
+
+}
